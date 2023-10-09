@@ -166,6 +166,10 @@ body {
         display: flex;
         justify-content: center;
     }
+
+    .text {
+        margin: 10px;
+    }
 }
 
 @media (min-width: 768px) and (max-width: 1024px) {
@@ -181,5 +185,9 @@ body {
     .desc {
         display: flex;
         justify-content: center;
+    }
+
+    .text {
+        margin: 10px;
     }
 }
