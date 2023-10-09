@@ -129,7 +129,7 @@ body {
     text-align: center;
     width: 330px;
     font-size: 15px;
-    margin: 0 auto;
+    margin: 10 auto;
 }
 
 @media (max-width: 768px) {
