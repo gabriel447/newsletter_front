@@ -6,7 +6,8 @@ body {
     margin: 0;
     background: url("./Assets/Background.png");
     background-repeat: no-repeat;
-    background-size: 120%;
+    background-size: cover;
+    background-attachment: fixed;
     display: flex;
     justify-content: center;
 }
