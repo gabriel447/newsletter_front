@@ -6,13 +6,13 @@ body {
     margin: 0;
     background: url("/Assets/Background.png");
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: 120%;
     display: flex;
     justify-content: center;
 }
 
 .box {
-    margin: 70px;
+    margin: 10%;
     background-color: #FFF;
     width: 380PX;
     height: 100%;
